@@ -1,0 +1,60 @@
+2026-05-30 15:19:19,896 - INFO - Pipeline started
+2026-05-30 15:19:37,264 - INFO - Pipeline started
+2026-05-30 15:19:37,265 - INFO - Extracted 8 records.
+2026-05-30 15:19:37,265 - INFO - Cleaned 6 records.
+2026-05-30 15:19:37,265 - INFO - Deduplicated 5 records.
+2026-05-30 15:19:37,267 - INFO - Pipeline done. Files Exported successfully!
+2026-05-30 15:32:22,533 - INFO - Pipeline started
+2026-05-30 15:32:22,533 - INFO - Extracted 8 records.
+2026-05-30 15:32:22,533 - INFO - Cleaned 6 records.
+2026-05-30 15:32:22,533 - INFO - Deduplicated 5 records.
+2026-05-30 15:32:22,535 - INFO - Pipeline done. Files Exported successfully!
+2026-05-30 15:33:42,863 - INFO - Pipeline started
+2026-05-30 15:33:42,873 - INFO - Extracted 8 records.
+2026-05-30 15:33:42,873 - INFO - Cleaned 8 records.
+2026-05-30 15:33:42,873 - INFO - Deduplicated 6 records.
+2026-05-30 15:33:42,875 - INFO - Pipeline done. Files Exported successfully!
+2026-05-30 15:37:02,145 - INFO - Pipeline started
+2026-05-30 15:37:02,146 - WARNING - Input File is empty.
+2026-05-30 15:37:02,146 - INFO - Extracted 0 records.
+2026-05-30 15:37:02,146 - INFO - Cleaned 0 records.
+2026-05-30 15:37:02,146 - INFO - Deduplicated 0 records.
+2026-05-30 15:37:02,148 - INFO - Pipeline done. Files Exported successfully!
+2026-05-30 15:39:32,097 - INFO - Pipeline started
+2026-05-30 15:39:32,098 - ERROR - Invalid JSON format in file: source/invalid_trans.json
+2026-05-30 15:39:32,098 - INFO - Extracted 0 records.
+2026-05-30 15:39:32,098 - INFO - Cleaned 0 records.
+2026-05-30 15:39:32,098 - INFO - Deduplicated 0 records.
+2026-05-30 15:39:32,100 - INFO - Pipeline done. Files Exported successfully!
+2026-05-30 15:43:15,540 - INFO - Pipeline started
+2026-05-30 15:43:15,547 - INFO - Extracted 8 records.
+2026-05-30 15:43:15,547 - INFO - Cleaned 8 records.
+2026-05-30 15:43:15,547 - INFO - Deduplicated 6 records.
+2026-05-30 15:43:15,548 - INFO - Pipeline done. Files Exported successfully!
+2026-05-30 15:43:44,689 - INFO - Pipeline started
+2026-05-30 15:43:44,690 - INFO - Extracted 8 records.
+2026-05-30 15:43:44,690 - INFO - Cleaned 8 records.
+2026-05-30 15:43:44,690 - INFO - Deduplicated 6 records.
+2026-05-30 15:43:44,691 - INFO - Pipeline done. Files Exported successfully!
+2026-05-30 15:44:30,417 - INFO - Pipeline started
+2026-05-30 15:44:30,418 - INFO - Extracted 8 records.
+2026-05-30 15:44:30,418 - INFO - Cleaned 8 records.
+2026-05-30 15:44:30,418 - INFO - Deduplicated 6 records.
+2026-05-30 15:44:30,419 - INFO - Pipeline done. Files Exported successfully!
+2026-05-30 15:44:54,478 - INFO - Pipeline started
+2026-05-30 15:44:54,485 - INFO - Extracted 8 records.
+2026-05-30 15:44:54,485 - INFO - Cleaned 8 records.
+2026-05-30 15:44:54,485 - INFO - Deduplicated 7 records.
+2026-05-30 15:44:54,486 - INFO - Pipeline done. Files Exported successfully!
+2026-05-30 15:45:29,834 - INFO - Pipeline started
+2026-05-30 15:45:29,845 - INFO - Extracted 8 records.
+2026-05-30 15:45:29,845 - WARNING - Abnormally Large Amount: 10000000.0
+2026-05-30 15:45:29,845 - INFO - Cleaned 8 records.
+2026-05-30 15:45:44,772 - INFO - Pipeline started
+2026-05-30 15:45:44,773 - INFO - Extracted 8 records.
+2026-05-30 15:45:44,773 - WARNING - Abnormally Large Amount: 10000000.0
+2026-05-30 15:45:44,774 - INFO - Cleaned 8 records.
+2026-05-30 15:46:30,195 - INFO - Pipeline started
+2026-05-30 15:46:30,196 - INFO - Extracted 8 records.
+2026-05-30 15:46:30,196 - WARNING - Abnormally Large Amount: 10000000.0
+2026-05-30 15:46:30,196 - INFO - Cleaned 8 records.
