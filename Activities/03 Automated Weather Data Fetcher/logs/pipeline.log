@@ -1,0 +1,82 @@
+2026-06-07 15:08:42,154 - INFO - Logger setup completed.
+2026-06-07 15:08:42,155 - INFO - Weather Pipeline started.
+2026-06-07 15:08:42,155 - INFO - Logger setup completed.
+2026-06-07 15:08:42,946 - ERROR - Failed to fetch weather data. Status code: 400
+2026-06-07 15:08:42,946 - ERROR - Failed to fetch weather data.
+2026-06-07 15:13:28,048 - INFO - Logger setup completed.
+2026-06-07 15:13:28,048 - INFO - Weather Pipeline started.
+2026-06-07 15:13:28,048 - INFO - Logger setup completed.
+2026-06-07 15:13:28,800 - INFO - Weather data fetched successfully.
+2026-06-07 15:13:28,801 - INFO - Logger setup completed.
+2026-06-07 15:13:28,803 - INFO - Raw data saved successfully.
+2026-06-07 15:14:05,027 - INFO - Logger setup completed.
+2026-06-07 15:14:05,039 - INFO - Weather Pipeline started.
+2026-06-07 15:14:05,039 - INFO - Logger setup completed.
+2026-06-07 15:14:05,782 - INFO - Weather data fetched successfully.
+2026-06-07 15:14:05,782 - INFO - Logger setup completed.
+2026-06-07 15:14:05,784 - INFO - Raw data saved successfully.
+2026-06-07 15:15:40,201 - INFO - Logger setup completed.
+2026-06-07 15:15:40,202 - INFO - Weather Pipeline started.
+2026-06-07 15:15:40,202 - INFO - Logger setup completed.
+2026-06-07 15:15:40,951 - INFO - Weather data fetched successfully.
+2026-06-07 15:15:40,951 - INFO - Logger setup completed.
+2026-06-07 15:15:40,953 - INFO - Raw data saved successfully.
+2026-06-07 15:15:40,953 - INFO - Transformed 1 records.
+2026-06-07 15:15:40,954 - INFO - Clean data saved successfully.
+2026-06-07 15:20:20,802 - INFO - Logger setup completed.
+2026-06-07 15:20:20,803 - INFO - Weather Pipeline started.
+2026-06-07 15:20:20,803 - INFO - Logger setup completed.
+2026-06-07 15:20:21,580 - INFO - Weather data fetched successfully.
+2026-06-07 15:20:21,580 - INFO - Logger setup completed.
+2026-06-07 15:20:21,581 - INFO - Raw data saved successfully.
+2026-06-07 15:20:21,581 - INFO - Transformed 1 records.
+2026-06-07 15:20:21,582 - INFO - Clean data saved successfully.
+2026-06-07 15:26:03,468 - INFO - Logger setup completed.
+2026-06-07 15:26:03,468 - INFO - Weather Pipeline started.
+2026-06-07 15:26:03,468 - INFO - Logger setup completed.
+2026-06-07 15:26:04,812 - INFO - Weather data fetched successfully.
+2026-06-07 15:26:04,812 - INFO - Logger setup completed.
+2026-06-07 15:26:04,812 - INFO - Raw data saved successfully.
+2026-06-07 15:26:04,812 - INFO - Transformed 168 records.
+2026-06-07 15:26:04,812 - INFO - Clean data saved successfully.
+2026-06-07 15:29:32,848 - INFO - Logger setup completed.
+2026-06-07 15:29:32,849 - INFO - Weather Pipeline started.
+2026-06-07 15:29:32,849 - INFO - Logger setup completed.
+2026-06-07 15:29:33,598 - INFO - Weather data fetched successfully.
+2026-06-07 15:29:33,599 - INFO - Logger setup completed.
+2026-06-07 15:29:33,602 - INFO - Raw data saved successfully.
+2026-06-07 15:29:33,602 - INFO - Transformed 168 records.
+2026-06-07 15:29:33,606 - INFO - Clean data saved successfully.
+2026-06-07 15:29:33,607 - INFO - Summary generated successfully.
+2026-06-07 15:29:33,607 - INFO - Weather Pipeline completed.
+2026-06-07 15:30:23,476 - INFO - Logger setup completed.
+2026-06-07 15:30:23,476 - INFO - Weather Pipeline started.
+2026-06-07 15:30:23,476 - INFO - Logger setup completed.
+2026-06-07 15:30:24,627 - INFO - Weather data fetched successfully.
+2026-06-07 15:30:24,627 - INFO - Logger setup completed.
+2026-06-07 15:30:24,643 - INFO - Raw data saved successfully.
+2026-06-07 15:30:24,643 - INFO - Transformed 168 records.
+2026-06-07 15:30:24,643 - INFO - Clean data saved successfully.
+2026-06-07 15:30:24,643 - INFO - Summary generated successfully.
+2026-06-07 15:30:24,643 - INFO - Weather Pipeline completed.
+2026-06-07 15:30:49,598 - INFO - Logger setup completed.
+2026-06-07 15:30:49,598 - INFO - Weather Pipeline started.
+2026-06-07 15:30:49,598 - INFO - Logger setup completed.
+2026-06-07 15:30:50,353 - INFO - Weather data fetched successfully.
+2026-06-07 15:30:50,354 - INFO - Logger setup completed.
+2026-06-07 15:30:50,355 - INFO - Raw data saved successfully.
+2026-06-07 15:30:50,355 - INFO - Transformed 168 records.
+2026-06-07 15:30:50,357 - INFO - Clean data saved successfully.
+2026-06-07 15:30:50,357 - INFO - Summary generated successfully.
+2026-06-07 15:30:50,361 - INFO - Summary saved successfully.
+2026-06-07 15:30:50,361 - INFO - Weather Pipeline completed.
+2026-06-07 15:31:39,534 - INFO - Logger setup completed.
+2026-06-07 15:31:39,534 - INFO - Weather Pipeline started.
+2026-06-07 15:31:39,534 - INFO - Logger setup completed.
+2026-06-07 15:31:40,306 - INFO - Weather data fetched successfully.
+2026-06-07 15:31:40,306 - INFO - Logger setup completed.
+2026-06-07 15:31:40,308 - INFO - Raw data saved successfully.
+2026-06-07 15:31:40,308 - INFO - Transformed 168 records.
+2026-06-07 15:31:40,310 - INFO - Clean data saved successfully.
+2026-06-07 15:31:40,311 - INFO - Summary saved successfully.
+2026-06-07 15:31:40,311 - INFO - Weather Pipeline completed.
