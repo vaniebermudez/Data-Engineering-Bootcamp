@@ -40,6 +40,13 @@ First API-driven project. Pulls live weather data from the [Open-Meteo API](http
 
 ---
 
+### ✅ `04 SQL Fundamentals`
+> Using PostgreSQL to learn SQL fundamentals
+
+Learning DDL, DML, DQL, and TCL using PostgreSQL - run using DBeaver
+
+---
+
 ## 🚀 Phase 1: The Foundation
 
 **Goal:** Master the core languages of data — Python and SQL.
@@ -61,9 +68,9 @@ First API-driven project. Pulls live weather data from the [Open-Meteo API](http
 
 | Session | Topic | Status |
 |---|---|---|
-| 9 | Database Concepts & Basic SELECT | ⬜ Pending |
-| 10 | Filtering & Aggregations (GROUP BY) | ⬜ Pending |
-| 11 | JOINs (Inner, Left, Right) | ⬜ Pending |
+| 9 | Database Concepts & Basic SELECT | ✅ Done |
+| 10 | Filtering & Aggregations (GROUP BY) | ✅ Done |
+| 11 | JOINs (Inner, Left, Right) | ✅ Done |
 | 12 | **Project 2: Retail DB Design** | ⬜ Pending |
 | 13 | Window Functions & CTEs | ⬜ Pending |
 | 14 | Stored Procedures & Optimization | ⬜ Pending |
