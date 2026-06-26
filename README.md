@@ -71,10 +71,10 @@ Learning DDL, DML, DQL, and TCL using PostgreSQL - run using DBeaver
 | 9 | Database Concepts & Basic SELECT | ✅ Done |
 | 10 | Filtering & Aggregations (GROUP BY) | ✅ Done |
 | 11 | JOINs (Inner, Left, Right) | ✅ Done |
-| 12 | **Project 2: Retail DB Design** | ⬜ Pending |
-| 13 | Window Functions & CTEs | ⬜ Pending |
-| 14 | Stored Procedures & Optimization | ⬜ Pending |
-| 15 | Dimensional Modeling (Star Schema) | ⬜ Pending |
+| 12 | **Project 2: Retail DB Design** | ✅ Done |
+| 13 | Window Functions & CTEs | ✅ Done |
+| 14 | Stored Procedures & Optimization | ✅ Done |
+| 15 | Dimensional Modeling (Star Schema) | ✅ Done |
 | 16 | **Project 3: Sales Performance Reporting Engine** | ⬜ Pending |
 
 ---
