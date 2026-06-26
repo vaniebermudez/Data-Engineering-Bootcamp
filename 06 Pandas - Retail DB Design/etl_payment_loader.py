@@ -4,6 +4,7 @@ from sqlalchemy import create_engine, text
 engine = create_engine(
 "postgresql+psycopg2://postgres:password@localhost:5432/quickcash_dw"
 )
+
 def load_new_payments(engine):
     print("Reading new payments file...")
     new_payments_df = pd.read_csv("data/new_payments.csv")
@@ -16,11 +17,11 @@ def load_new_payments(engine):
     )
     print("Staging Load Complete!")
     insert_to_fact_query = """
-INSERT INTO fact_payments (payment_id,fact_loan_id, payment_amount,payment_date)
-SELECT payment_id, loan_id, payment_amount, cast(payment_date as date)
-FROM payments_staging
-on conflict (payment_id) do nothing
-"""
+        INSERT INTO fact_payments (payment_id,fact_loan_id, payment_amount,payment_date)
+        SELECT payment_id, loan_id, payment_amount, cast(payment_date as date)
+        FROM payments_staging
+        on conflict (payment_id) do nothing
+    """
     with engine.begin() as conn:
         conn.execute(text(insert_to_fact_query))
     print("Payments inserted to fact table")
@@ -60,9 +61,11 @@ def loan_details(engine):
     df = pd.read_sql(query,engine)
     return df
 
+
 def get_total_payments(engine):
     payments = pd.read_sql("SELECT * FROM fact_payments",engine)
     return payments["payment_amount"].sum()
+
 
 def loan_progress_report(engine):
     query = """
@@ -79,6 +82,7 @@ def loan_progress_report(engine):
     filtered_df = df[df["fact_loan_id"].isin([149,150,164])] 
     return filtered_df   
 # print(loan_details(engine=engine))
+
 print(loan_progress_report(engine=engine))
 
 # load_new_payments(engine=engine)
