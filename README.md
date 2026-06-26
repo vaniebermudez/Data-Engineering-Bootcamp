@@ -43,7 +43,40 @@ First API-driven project. Pulls live weather data from the [Open-Meteo API](http
 ### ✅ `04 SQL Fundamentals`
 > Using PostgreSQL to learn SQL fundamentals
 
-Learning DDL, DML, DQL, and TCL using PostgreSQL - run using DBeaver
+Covers the four core SQL command categories using **PostgreSQL**, executed via **DBeaver** and **pgAdmin**:
+
+| Category | Full Name | Examples |
+|---|---|---|
+| **DDL** | Data Definition Language | `CREATE`, `ALTER`, `DROP` |
+| **DML** | Data Manipulation Language | `INSERT`, `UPDATE`, `DELETE` |
+| **DQL** | Data Query Language | `SELECT`, `WHERE`, `JOIN` |
+| **TCL** | Transaction Control Language | `COMMIT`, `ROLLBACK`, `SAVEPOINT` |
+
+---
+
+### ✅ `05 Python Pandas — Series and DataFrame`
+> Basics of Pandas Series and DataFrame and simple data manipulation
+
+Introduces the two core Pandas data structures and how to work with them:
+
+- **Series** — one-dimensional labeled arrays; indexing, slicing, and vectorized operations
+- **DataFrame** — two-dimensional tabular data; column selection, filtering, sorting, and basic aggregations
+- Simple data manipulation workflows as a foundation for the ETL work in the next module
+
+---
+### ✅ `06 Python Pandas — Retail DB Design`
+> Connecting to PostgreSQL → loading new payments data → payments staging → updating fact tables
+
+A full ETL pipeline that bridges Python and a live PostgreSQL database using `psycopg2` and `pandas`. Implements the **PC Store Retail DB** with a three-function pipeline architecture:
+
+**`create_db_design()`**
+Provisions the database schema — a `products` table and a `sales` table with a foreign key relationship — and seeds it with initial product records (RGB Gaming Mouse, Mechanical Keyboard, 27-in Gaming Monitor).
+
+**`run_data_pipeline(product_id, quantity)`**
+The load function. Inserts a new sales transaction into the `sales` table with a live timestamp, simulating a real-time point-of-sale event.
+
+**`sales_reporting_engine()`**
+The reporting layer. Runs an aggregated SQL query via `pd.read_sql()` joining `sales` and `products`, computing total items sold and total revenue per product, then exports the result to `reports/daily_sales_report.csv`.
 
 ---
 
@@ -91,7 +124,7 @@ Learning DDL, DML, DQL, and TCL using PostgreSQL - run using DBeaver
 | 18 | Data Cleaning & Analysis | ✅ Done |
 | 19 | Extracting Data from APIs | ✅ Done |
 | 20 | Transforming Data with Python | ✅ Done |
-| 21 | Loading to SQL (The "L" in ETL) & **Project 4** | ⬜ Pending |
+| 21 | Loading to SQL (The "L" in ETL) & **Project 4** | ✅ Done |
 
 ### ☁️ Cloud & Storage
 
@@ -159,7 +192,7 @@ Learning DDL, DML, DQL, and TCL using PostgreSQL - run using DBeaver
 | 1 | Automated Weather Data Fetcher | Phase 1 | ✅ Done |
 | 2 | Retail DB Design | Phase 1 | ✅ Done |
 | 3 | Sales Performance Reporting Engine | Phase 1 | ✅ Done |
-| 4 | ETL Pipeline (Load to SQL) | Phase 2 | ⬜ Pending |
+| 4 | ETL Pipeline (Load to SQL) | Phase 2 | ✅ Done |
 | 5 | Deploying Scripts to Cloud | Phase 2 | ⬜ Pending |
 | 6 | Cloud Data Warehouse & Dashboarding | Phase 2 | ⬜ Pending |
 | 7 | Automating Daily Jobs | Phase 3 | ⬜ Pending |
