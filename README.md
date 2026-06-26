@@ -75,7 +75,7 @@ Learning DDL, DML, DQL, and TCL using PostgreSQL - run using DBeaver
 | 13 | Window Functions & CTEs | ✅ Done |
 | 14 | Stored Procedures & Optimization | ✅ Done |
 | 15 | Dimensional Modeling (Star Schema) | ✅ Done |
-| 16 | **Project 3: Sales Performance Reporting Engine** | ⬜ Pending |
+| 16 | **Project 3: Sales Performance Reporting Engine** | ✅ Done |
 
 ---
 
@@ -87,10 +87,10 @@ Learning DDL, DML, DQL, and TCL using PostgreSQL - run using DBeaver
 
 | Session | Topic | Status |
 |---|---|---|
-| 17 | Pandas DataFrames Basics | ⬜ Pending |
-| 18 | Data Cleaning & Analysis | ⬜ Pending |
-| 19 | Extracting Data from APIs | ⬜ Pending |
-| 20 | Transforming Data with Python | ⬜ Pending |
+| 17 | Pandas DataFrames Basics | ✅ Done |
+| 18 | Data Cleaning & Analysis | ✅ Done |
+| 19 | Extracting Data from APIs | ✅ Done |
+| 20 | Transforming Data with Python | ✅ Done |
 | 21 | Loading to SQL (The "L" in ETL) & **Project 4** | ⬜ Pending |
 
 ### ☁️ Cloud & Storage
@@ -157,8 +157,8 @@ Learning DDL, DML, DQL, and TCL using PostgreSQL - run using DBeaver
 | # | Project | Phase | Status |
 |---|---|---|---|
 | 1 | Automated Weather Data Fetcher | Phase 1 | ✅ Done |
-| 2 | Retail DB Design | Phase 1 | ⬜ Pending |
-| 3 | Sales Performance Reporting Engine | Phase 1 | ⬜ Pending |
+| 2 | Retail DB Design | Phase 1 | ✅ Done |
+| 3 | Sales Performance Reporting Engine | Phase 1 | ✅ Done |
 | 4 | ETL Pipeline (Load to SQL) | Phase 2 | ⬜ Pending |
 | 5 | Deploying Scripts to Cloud | Phase 2 | ⬜ Pending |
 | 6 | Cloud Data Warehouse & Dashboarding | Phase 2 | ⬜ Pending |
