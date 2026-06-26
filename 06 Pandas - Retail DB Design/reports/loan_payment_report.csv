@@ -1,0 +1,53 @@
+fact_loan_id,customer_name,loan_amount,total_payments,loan_status
+106,Customer 6,13484.4,3238.91,Active
+134,Customer 34,20121.98,2255.77,Active
+110,Customer 10,7422.96,2474.62,Active
+118,Customer 18,5703.35,2468.8,Active
+101,Customer 1,7386.69,13467.12,Active
+140,Customer 40,23652.6,1885.0,Active
+116,Customer 16,7804.28,2833.49,Active
+147,Customer 47,21978.33,2479.69,Active
+101,Customer 2,7386.69,6733.56,Active
+136,Customer 36,24753.85,2432.09,Active
+133,Customer 33,18193.64,3102.97,Active
+143,Customer 43,23169.61,4012.17,Active
+142,Customer 42,17562.01,2320.17,Active
+122,Customer 22,15771.6,3694.46,Active
+102,Customer 2,18551.05,5561.39,Active
+121,Customer 21,14564.37,4308.95,Active
+117,Customer 17,12390.58,2590.01,Active
+131,Customer 31,23875.8,2523.0,Active
+144,Customer 44,23865.36,3431.16,Active
+105,Customer 5,13777.3,4519.49,Active
+130,Customer 30,20968.0,2070.91,Active
+114,Customer 14,11101.43,2990.1,Active
+103,Customer 3,24636.76,8292.7,Active
+115,Customer 15,24539.18,2106.72,Active
+127,Customer 27,16261.07,2943.44,Active
+141,Customer 41,8274.27,2595.91,Active
+125,Customer 25,21855.7,3033.77,Active
+128,Customer 28,24986.97,2618.41,Active
+148,Customer 48,13538.54,2526.76,Active
+119,Customer 19,18309.35,2344.92,Active
+126,Customer 26,23247.79,3363.53,Active
+112,Customer 12,17402.55,2868.51,Active
+164,Customer 4,15000.0,48000.0,Fully Paid
+104,Customer 4,11808.28,35070.32,Fully Paid
+145,Customer 45,9125.77,3085.4,Active
+150,Customer 50,14719.16,17867.77,Fully Paid
+111,Customer 11,11578.33,3207.24,Active
+108,Customer 8,23136.53,2139.37,Active
+123,Customer 23,20711.53,2883.67,Active
+124,Customer 24,5945.72,3915.71,Active
+146,Customer 46,20056.83,3127.88,Active
+137,Customer 37,12265.87,2694.73,Active
+113,Customer 13,24881.53,3288.6,Active
+120,Customer 20,17776.07,3019.39,Active
+107,Customer 7,6217.63,4225.88,Active
+149,Customer 49,9441.32,12206.62,Fully Paid
+135,Customer 35,15372.87,3661.23,Active
+132,Customer 32,24183.92,3330.15,Active
+138,Customer 38,16521.79,2841.07,Active
+129,Customer 29,16773.76,3559.66,Active
+139,Customer 39,11783.36,3510.0,Active
+109,Customer 9,10680.92,3403.22,Active
